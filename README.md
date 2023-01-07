@@ -1,1 +1,6 @@
-# 2k19_CSM_78_WEB
+DEPARTMENT OF COMPUTER SCIENCE
+UNIVERSITY OF SINDH
+Saqlain Ahmed
+
+WEB Programming Assignments 
+Sir Gulsher Ali
